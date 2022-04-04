@@ -75,6 +75,11 @@ body {
 	}
 
 	&__logo {
+		width: 100px;
+		height: 23px;
+		img {
+			max-width: 100%;
+		}
 	}
 
 	&__title-main {

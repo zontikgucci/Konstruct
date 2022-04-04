@@ -175,6 +175,13 @@ body {
   height: 100vh;
   padding: 2.9% 0px 5% 0px;
 }
+.header__logo {
+  width: 100px;
+  height: 23px;
+}
+.header__logo img {
+  max-width: 100%;
+}
 .header__title-main {
   text-align: center;
 }
